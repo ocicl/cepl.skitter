@@ -1,0 +1,9 @@
+* cepl.skitter
+
+Skitter input handling integration for CEPL.
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/cbaggers/cepl.skitter.git |
+| commit  | f52b924                                          |
+| systems | cepl.skitter                                     |
+|---------+--------------------------------------------------|
